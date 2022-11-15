@@ -6,8 +6,8 @@ En este repositorio encontrarás el archivo "activity.h" que deberás modificar 
 ```
 // =========================================================
 // File: activity.h
-// Author: Edward Elric - A00123456
-// Date: 01/01/2021
+// Author: Fernando Matute - A00833375
+// Date: 15/11/2022
 // =========================================================
 ```
 
